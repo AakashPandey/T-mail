@@ -4,9 +4,10 @@ T-Mail
 Minimal mail Program for your terminal
 
 ---Installation---
-0. Download main
-1. chmod +x main
-2. ./main
+
+1. Download main
+2. chmod +x main
+3. ./main
 
 ------------------
 
