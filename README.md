@@ -1,7 +1,7 @@
 -------
 T-Mail 
 -------
-Minimal mail Program for your terminal
+Minimal mail program for your terminal
 
 ---Installation---
 
