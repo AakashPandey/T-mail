@@ -18,7 +18,7 @@ NOTE:
 * Do not delete any files, folders generated inside the root directory where 
   the script exists.
 
-* kindly do not change the name of the script.
+* Kindly do not change the name of the script.
 
 * The program is currenly under testing and there is no encryption for now.
 
