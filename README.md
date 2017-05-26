@@ -27,13 +27,9 @@ NOTE:
 #!*
     Send me a mail with your top 5 favorite songs
     My mail address = aakash@SkyBook
-*!# 
 
--------------------------
 Written in bash
-
 Created on Elementary OS
--------------------------
 
 Thanks for reading !
 ReedValve - (Aakash P)
