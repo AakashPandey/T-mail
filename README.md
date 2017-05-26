@@ -31,6 +31,7 @@ NOTE:
 
 -------------------------
 Written in bash
+
 Created on Elementary OS
 -------------------------
 
