@@ -148,9 +148,9 @@ END_SCRIPT
 
 			echo "#!/bin/bash" >> getmail
 
-			echo "HOST=skynetap.96.lt" >> getmail
-			echo "USER=u426541949" >> getmail
-			echo "PASS=Qnet@1493" >> getmail
+			echo $HOST >> getmail
+			echo $USER >> getmail
+			echo $PASS >> getmail
 			echo "ftp -inv $HOST  <<END_SCRIPT >> /tmp/prepare.log " >> getmail
 			echo "user $USER $PASS" >> getmail
 			echo "passive" >> getmail
